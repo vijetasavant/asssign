@@ -1,3 +1,3 @@
-# asssign
-this is my first git tutorial
+About Me
 
+I am Software Engineer
